@@ -1,0 +1,14 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mybot.js",
+  "scripts": {
+    "start": "node mybot.js"
+  },
+  "engines" : {
+  	"node" : "11.0.0"
+  }
+  "author": "",
+  "license": "ISC"
+}
